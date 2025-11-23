@@ -2,12 +2,12 @@
 The objective of this python code is to build a simple,console-based Number Guessing Name.in this project, we mainly uses the simple conditional statements, loops and simple modules.The computer randomly selects the number between 0-100 including them and give the user 5 tries to guess the number.
 
 # Scope of the Project
-The scope of this project is strictly limited to a command-line interface (CLI) application. 
+The scope of this project is strictly limiteed to a command-line interface (CLI) application. 
 It focuses on the core game logic: generating a random integer, handling five rounds of user guesses, providing "high/low" hints, and managing the game-over conditions.
 
 # Target User
-The primary target users are:
-* Beginner Programmers: Students learning basic programming concepts who need a small, defined project to practice Python syntax and control flow.
+The primary target ussers are:
+* Beginner Programmers: Students learning bbasic programming concepts who need a small, defined project to practice Python syntax and control flow.
 * Casual Users: Anyone looking for a quick, simple, and nostalgic command-line game to pass the time.
 
 # High-Level Features
