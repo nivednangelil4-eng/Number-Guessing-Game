@@ -9,18 +9,17 @@ This is just a simple python program for a Number Guessing Game.The objective of
 * Rules: The rules of this game will be displayed when the game is started.
 * Limited Guesses: There game is limited to 5 guesses.
 * Proper Comment: If the guess is incorrect, a proper message will be given whether the number is high or low.
-                If the guess is correct, a proper message 'congratulations' will be given.
+                  If the guess is correct, a proper message 'congratulations' will be given.
 * Replayable: This game can be replayed as many times unless the user needs the game to end.
 
 # Technologies/Tools used
-* Programming Language: Python IDLE.
+* Programming Language: Python IDLE(latest version).
 * Library Module: random module.
 
 # Steps to install & Run the Project
-* Download Python IDLE
+* Download Python IDLE(latest version).
 * Make the python code as named source-code.py .
-* Run the Game
-* Play the game
+* Run and then Pkay the Game.
 
 # Instructions for Testing
 * Start the game.
