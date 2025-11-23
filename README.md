@@ -1,1 +1,2 @@
-# Number-Guessing-Game
+# Project Title
+Number Guessing Game
