@@ -8,8 +8,9 @@ This is just a simple python program for a Number Guessing Game.The objective of
 * Random Number Generation: A random number is selected by the computer by the use of the random module.
 * Rules: The rules of this game will be displayed when the game is started.
 * Limited Guesses: There game is limited to 5 guesses.
-* Proper Comment: 1. If the guess is incorrect, a proper message will be given whether the number is high or low.
-                  2. If the guess is correct, a proper message 'congratulations' will be given.
+* Proper Comment:
+*   If the guess is incorrect, a proper message will be given whether the number is high or low.
+*   If the guess is correct, a proper message 'congratulations' will be given.
 * Replayable: This game can be replayed as many times unless the user needs the game to end.
 
 # Technologies/Tools used
