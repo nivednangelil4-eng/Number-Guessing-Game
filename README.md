@@ -44,11 +44,3 @@ The game is interactive and can be tested manually:
 * Test replay: At the end of a game, enter 'y' to restart and 'n' to exit the program.
 
 
-
-
-
-
-
-ine.
-
-Execution: Open your terminal or command prompt, navigate to the directory where the file is saved, and run the following command:
