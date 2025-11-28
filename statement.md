@@ -7,13 +7,20 @@ It focuses on the core game logic: generating a random integer, handling five ro
 
 # Target User
 The primary target ussers are:
+
 * Beginner Programmers: Students learning bbasic programming concepts who need a small, defined project to practice Python syntax and control flow.
+
 * Casual Users: Anyone looking for a quick, simple, and nostalgic command-line game to pass the time.
 
 # High-Level Features
 * Game Initialisation: Generate a random number selected by the computer between 0-100, including both.
+
 * Guessing Loop: Loop runs upto 5 attempts and ends.
+
 * Comment: After checking the guessed number with the selected number by the computer, proper comment will be given whether the number is high or low.
+
 * Win Condition: If the guess is correct, the program terminates with a congratulation message.
+
 * Loss Condition: If all the 5 guesses are incorrect, the program terminates with a lost message.
+
 * Replay: Asks the user whether it needs to start the new game or not. 
