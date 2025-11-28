@@ -1,28 +1,54 @@
-# Project Title
+# Project title
+
 Number Guessing Game
 
-# Overview of the Project
-This is just a simple python program for a Number Guessing Game.The objective of the game is to guess the number (0-100) which is randomly selected by the computer within a fixed number of guesses(5).If the guessed number is incorrect, then proper comment will be given whether the number is higher or lower.This program is made with loops,conditional statements, and random module.
+# Overview of the project
+This project implements a simple command-line based Number Guessing Game. The objective is for the user to guess a randomly generated secret number within a specified range (0 to 100) and within a limited number of tries (5 guesses). The system provides hints (higher or lower) after each incorrect guess.
 
 # Features
-* Random Number Generation: A random number is selected by the computer by the use of the random module.
-* Rules: The rules of this game will be displayed when the game is started.
-* Limited Guesses: There game is limited to 5 guesses.
-* Proper Comment:
-  1.  If the guess is incorrect, a proper message will be given whether the number is high or low.
-  2.  If the guess is correct, a proper message 'congratulations' will be given.
-* Replayable: This game can be replayed as many times unless the user needs the game to end.
+* Random Number Generation: A secret number is randomly generated between 0 and 100.
 
-# Technologies/Tools used
-* Programming Language: Python IDLE(latest version).
-* Library Module: random module.
+* Guess Limit: The user has a maximum of 5 attempts to guess the number.
 
-# Steps to install & Run the Project
-* Download Python IDLE(latest version).
-* Make the python code as named source-code.py .
-* Run and then Pkay the Game.
+* Hints: After an incorrect guess, the user is informed whether the secret number is greater or less than their guess.
 
-# Instructions for Testing
-* Start the game.
-* Make the guess within 5 tries. It may be correct or incorrect.if the guess is incorrect as well as correct,message will be given.
-* While entering the numbers, the number should be between 0 and 100, including them also.
+* Win/Loss Outcome: Clearly displays a congratulatory message upon a correct guess or a loss message revealing the number after all attempts are exhausted.
+
+* Replay Option: Allows the user to choose to play the game again.
+
+# Technologies/tools used
+* Programming Language: Python 3.14
+
+* Modules: random module for number generation
+
+# Steps to install & run the project
+* Prerequisites: Ensure you have Python 3.x installed on your system.
+
+* Download/Clone: Download the source-code.py file to your local machine.
+
+* Execution: Open your terminal or command prompt, navigate to the directory where the file is saved, and run the following command:
+
+* Play: Follow the on-screen instructions to enter your guesses.
+
+# Instructions for testing
+The game is interactive and can be tested manually: 
+
+* Start the game by running the script.
+
+* Test correct guessing: Enter numbers until you guess correctly within 5 tries. Verify the "CONGRATULATIONS!!!" message is displayed.
+
+* Test incorrect guessing (loss): Intentionally guess wrong 5 times. Verify the "Sorry. You Lost" message and the correct number are displayed.
+
+* Test hints: Verify that the messages "The number is less..." and "The number is greater..." appear correctly based on your guess relative to the secret number.
+
+* Test replay: At the end of a game, enter 'y' to restart and 'n' to exit the program.
+
+
+
+
+
+
+
+ine.
+
+Execution: Open your terminal or command prompt, navigate to the directory where the file is saved, and run the following command:
